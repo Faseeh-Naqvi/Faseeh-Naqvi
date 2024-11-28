@@ -21,7 +21,7 @@ At HackWestern X, I led a team to develop **Attentify**, a productivity web app 
 
 *(In progress, Private Repository)*
 
-As a Software Developer at Impact Earth @ Western University, I'm upgrading a legacy Angular application to version 18, including replacing the outdated maps system with the new Google Maps API. This project has resulted in a **30% increase in application performance** and a **25% reduction in page load times**.
+As a Software Developer at Impact Earth @ Western University, I'm upgrading a legacy Angular application to version 18, including replacing the outdated maps system with the new Google Maps API.
 
 ---
 
