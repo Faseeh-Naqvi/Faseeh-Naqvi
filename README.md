@@ -31,11 +31,10 @@ At Carolinian Canada Coalition, I developed a Python command-line script with ha
 
 ---
 
-### [ARM7 UPC Code Checker](https://github.com/Faseeh-Naqvi/ARM7-UPC-Code-Checker)
+### [ARM7 UPC Code Checker](https://docs.google.com/document/d/1vr8KRbFEvc5IMpV8Xi-CMO0xyN0gGbR4SdLhEFfhhtw/edit?usp=sharing)
 
 I developed an ARM7 Assembly program to validate Universal Product Codes (UPCs), enhancing my understanding of low-level programming and computer architecture.
 
-[View the Project on GitHub »](https://github.com/Faseeh-Naqvi/ARM7-UPC-Code-Checker)
 
 ---
 
@@ -60,15 +59,7 @@ At **IveyHacks 2023**, my team and I won second place by developing a mobile app
 - **2nd Place** - [IveyHacks Case Competition](https://www.ivey.uwo.ca/news/news-ivey/2023/march/new-ivey-hackathon-allows-students-to-build-a-real-life-data-privacy-solution/)
 - **Vice President of Events** - TMA (Secured record-breaking \$315 food sponsorship deal)
 - **Co-Founder** - Mustang Tutors (Managed 5 tutors)
-- **Participant** - HackWestern X
-- **Member** - Computer Science Undergraduate Society
+- **DECA Case Comp** - Regional Finalist
 
 ## 📫 Let's Connect
-
-- **Email:** [faseehnaq@gmail.com](mailto:faseehnaq@gmail.com)
 - **LinkedIn:** [linkedin.com/in/faseeh-naqvi](https://www.linkedin.com/in/faseeh-naqvi/)
-- **GitHub:** [github.com/Faseeh-Naqvi](https://github.com/Faseeh-Naqvi)
-
-## ⚡ Fun Fact
-
-I'm passionate about tech that makes a difference, and I'm on the lookout for Software Development internships where I can contribute, learn, and grow. If you're into creating cool, impactful projects, let's connect!
