@@ -26,6 +26,7 @@ As a Software Developer at Impact Earth @ Western University, I'm upgrading a le
 ---
 
 ### Facebook Data Extraction Tool
+*(Completed, Private Repository)*
 
 At Carolinian Canada Coalition, I developed a Python command-line script with hash-based duplication protection, automating the extraction and analysis of over **23,798 lines of Facebook post data**. This saved over **$6,300 in work hours** and improved social media research efficiency by **75%**. The tool is now being utilized in research for a scientific journal.
 
