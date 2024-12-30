@@ -4,6 +4,23 @@ I'm a Computer Science student at [Western University](https://www.uwo.ca/), set
 
 ## 🔭 Projects
 
+### [Brainrot App](#)
+*(In active development, Private Repository)*
+
+**Brainrot** is a mobile app designed to track and gamify your time spent scrolling on TikTok and Instagram. The goal is to bring awareness to the mass scrolling epidemic. 
+
+It calculates your "brainrot score" and allows you to compete with friends on leaderboards. Key features include:
+
+- **Tracking Time on Social Media:** Calculates reels scrolled based on active time.
+- **Global & Friend Leaderboards:** Compete with friends and others to see who scrolls the most.
+- **Engaging Metrics:** Visualize distance scrolled or brainrot points to gamify the experience.
+- **Friend System:** Connect with friends for more competitive fun.
+- **Accolades and Quizzes:** Unlock achievements and take fun quizzes to increase your score.
+
+The app uses Java for the Android frontend and integrates with a cloud backend for leaderboard synchronization.
+
+[Repository link coming soon!]
+
 ### [Attentify](https://devpost.com/software/attentify)
 
 At HackWestern X, I led a team to develop **Attentify**, a productivity web app and Chrome extension tailored for the ADHD community. We collected responses from over 150 people through a Reddit poll to tailor the app to their needs. Features include:
