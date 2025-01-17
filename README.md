@@ -21,6 +21,8 @@ The app uses Java for the Android frontend and integrates with a cloud backend f
 
 [Repository link coming soon!]
 
+---
+
 ### [Attentify](https://devpost.com/software/attentify)
 
 At HackWestern X, I led a team to develop **Attentify**, a productivity web app and Chrome extension tailored for the ADHD community. We collected responses from over 150 people through a Reddit poll to tailor the app to their needs. Features include:
