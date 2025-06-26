@@ -2,7 +2,7 @@
 
 I'm a Computer Science student at [Western University](https://www.uwo.ca/), set to graduate in 2026, and I love creating tech solutions that make a positive impact. I've been hands-on with full-stack development, working with Node.js, React.js, Angular.js, and many more tools to build apps that solve real-world problems.
 
-##NEW! Check out [faseeh.ca](https://faseeh.ca/)
+## NEW! Check out [faseeh.ca](https://faseeh.ca/)
 
 ## 🔭 Projects
 
