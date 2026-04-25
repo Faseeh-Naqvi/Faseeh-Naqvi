@@ -34,6 +34,10 @@ Key features include:
 - **JSON Prediction Output:** Returned structured prediction results with language-label probabilities.
 - **Self-Test Validation:** Added validation flows to confirm model loading, preprocessing, and inference outputs.
 
+[Our Changes](https://github.com/Faseeh-Naqvi/Open-Source-JVM-Machine-Learning-Runtime)
+
+[Upstream repository](https://github.com/KUGDev/guesslang-keras/tree/feature/keras-rewrite-another-try)
+
 ---
 
 ### [Brainrot App](#)
