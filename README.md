@@ -203,7 +203,7 @@ Python command-line automation tool developed at Carolinian Canada Coalition to 
 ---
 
 <h4 align="left">
-  <a href="https://docs.google.com/document/d/1vr8KRbFEvc5IMpV8Xi-CMO0xyN0gGbR4SdLhEFfhhtw/edit?usp=sharing" target="_blank">ARM7 UPC Code Checker</a>
+  <a href="https://github.com/Faseeh-Naqvi/UPC-Checker-ARM7" target="_blank">ARM7 UPC Code Checker</a>
 </h4>
 
 <p align="left">
@@ -217,9 +217,6 @@ ARM7 Assembly project that validates Universal Product Codes using low-level ari
 - Built a clearer understanding of low-level computation and hardware-near programming.
 </p>
 
-<p align="left">
-  <a href="https://docs.google.com/document/d/1vr8KRbFEvc5IMpV8Xi-CMO0xyN0gGbR4SdLhEFfhhtw/edit?usp=sharing" target="_blank">Project Writeup »</a>
-</p>
 
 ---
 
