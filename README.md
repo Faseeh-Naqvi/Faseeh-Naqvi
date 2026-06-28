@@ -88,8 +88,8 @@ Open-source machine learning runtime work focused on running language-detection 
 </p>
 
 <p align="left">
-  <a href="https://github.com/Faseeh-Naqvi/ONYX" target="_blank">Our Changes »</a><br>
-  <a href="https://github.com/onyx-dot-app/onyx" target="_blank">Upstream Repository »</a>
+  <a href="https://github.com/Faseeh-Naqvi/Open-Source-JVM-Machine-Learning-Runtime" target="_blank">Our Changes »</a><br>
+  <a href="https://github.com/KUGDev/guesslang-keras" target="_blank">Upstream Repository »</a>
 </p>
 
 ---
